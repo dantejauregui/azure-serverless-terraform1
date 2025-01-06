@@ -1,6 +1,7 @@
 # Azure Function Terraform Project1
 
 This Terraform project creates the necessary Azure resources to run a Python Azure Function.
+Currently, the Python azure function code is in another repo, so you need to deploy your own function through CLI using `func publish` command.
 
 ## Resources Created
 
